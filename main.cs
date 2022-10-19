@@ -16,7 +16,7 @@ class Program
 
         Console.WriteLine("This program calculates the take home pay from a job.");
         Console.WriteLine("");
-      
+
         Console.WriteLine("please enter your enployment information.");
         Console.WriteLine("");
 
